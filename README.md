@@ -1,1 +1,2 @@
-# resume
+# Images in README
+![](mountain.jpg)
